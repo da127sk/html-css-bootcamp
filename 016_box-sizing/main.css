@@ -8,7 +8,7 @@ div{
 
 img {
     width: 200px;
-    box-sizing: border-box;
+    /*box-sizing: border-box;*/
     border: 10px groove orangered;
     padding: 20px;
     /*margin: 40px;*/
