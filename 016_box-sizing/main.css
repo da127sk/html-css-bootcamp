@@ -7,11 +7,11 @@ div{
 }
 
 img {
-    width: 200px;
-    /*box-sizing: border-box;*/
+    width: 300px;
+    box-sizing: border-box;
     border: 10px groove orangered;
-    padding: 20px;
-    /*margin: 40px;*/
+    padding: 30px;
+    margin: 40px;
 }
 
 .dogone {
